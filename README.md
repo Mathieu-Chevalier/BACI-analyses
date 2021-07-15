@@ -1,3 +1,3 @@
 # BACI-analyses
 
-Bird count data over Sweden for four species
+Bird time series count data over Sweden for four species
